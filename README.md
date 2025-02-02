@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 7e21e16d8de1426590f7269463f734430f52009b
 # Aissa Zerrad - Portfolio
 
 Welcome to my portfolio! I am Aissa Zerrad, a passionate frontend developer. This portfolio is built with **React.js**, **Vite**, **Tailwind CSS**, and **Framer Motion** to showcase my skills, projects, and experience.
@@ -47,6 +50,7 @@ Ensure you have the following installed:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/aissap/Aissa-Zerrad.git
+<<<<<<< HEAD
 =======
 # React + Vite
 
@@ -57,3 +61,5 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 >>>>>>> 2ac4656 (Initial commit)
+=======
+>>>>>>> 7e21e16d8de1426590f7269463f734430f52009b
