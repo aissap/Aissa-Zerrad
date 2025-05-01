@@ -1,6 +1,6 @@
 import React from "react";
 import { HERO_CONTENT } from "../constants";
-import profilePic from "../assets/prof.PNG"; 
+import profilePic from "../assets/prof.png"; 
 
 function Hero() {
   return (
