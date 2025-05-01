@@ -1,10 +1,6 @@
 import React from "react";
 import { HERO_CONTENT } from "../constants";
-<<<<<<< HEAD
 import profilePic from "../assets/prof.PNG"; 
-=======
-import profilePic from "../assets/prof.PNG";
->>>>>>> d669e40 (fixing Images)
 
 function Hero() {
   return (
