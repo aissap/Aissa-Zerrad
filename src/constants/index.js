@@ -4,11 +4,11 @@ export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer w
 
 export const EXPERIENCES = [
   {
-    year: "2024 - Present",
-    role: "Software Engineer",
-    company: "Personal Projects",
-    description: `Developed full-stack applications such as DriveBuddy, a car rental platform, and SolarMart, an e-commerce site for solar products. Contributed to open-source projects on GitHub, focusing on JavaScript, Python, and web technologies.`,
-    technologies: ["React.js", "Next.js", "Flask", "MongoDB", "Stripe", "MySQL"],
+    year: "[[Start Date]] - Present",
+    role: "Software Engineer Intern - Front-End Developer",
+    company: "Valhko",
+    description: `Developing and implementing new user-facing features, collaborating with the team to write clean, scalable code, and contributing to code reviews to maintain high performance.`,
+    technologies: ["React.js", "Next.js", "JavaScript", "HTML", "CSS"],
   },
   {
     year: "September 2024",
@@ -16,7 +16,14 @@ export const EXPERIENCES = [
     company: "J.P. Morgan (Forage)",
     description: `Completed a virtual internship where I set up a local development environment, fixed repository issues, and utilized JPMorgan Chase’s open-source library Perspective to generate a real-time data feed for traders.`,
     technologies: ["Python", "JavaScript", "React.js", "Perspective"],
-  }
+  },
+  {
+    year: "2024 - Present",
+    role: "Software Engineer",
+    company: "Personal Projects",
+    description: `Developed full-stack applications such as DriveBuddy, a car rental platform, and SolarMart, an e-commerce site for solar products. Contributed to open-source projects on GitHub, focusing on JavaScript, Python, and web technologies.`,
+    technologies: ["React.js", "Next.js", "Flask", "MongoDB", "Stripe", "MySQL"],
+  },
 ];
 
 export const PROJECTS = [
